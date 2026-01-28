@@ -14,14 +14,6 @@ This makes **Anchor Escrow 2025** the perfect starting point for anyone diving i
 - Clean builds with zero warnings or errors.
 - Testing via npm and Node.js, avoiding third-party package managers or test runners.
 
-## Animated walk through
-
-Check out the **full animated explanation** of the Escrow program from mySolana TURBIN3 video:
-
-[![Full animated explanation of the Escrow program](https://img.youtube.com/vi/ZMB_OqLIeGw/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZMB_OqLIeGw)
-
-This repository is [designed for teaching and learning](CHANGELOG.md).
-
 ## Introduction
 
 This Solana program implements an **escrow**, enabling secure token swaps between users. For example, Alice can offer 10 USDC in exchange for 100 WIF.

@@ -13,4 +13,13 @@ pub enum ErrorCode {
 
     #[msg("Amount must be greater than zero")]
     InvalidAmount,
+
+    #[msg("Failed to transfer tokens")]
+    FailedTokenTransfer,
+
+    #[msg("Failed vault withdrawal")]
+    FailedVaultWithdrawal,
+
+    #[msg("Failed vault closure")]
+    FailedVaultClosure,
 }
